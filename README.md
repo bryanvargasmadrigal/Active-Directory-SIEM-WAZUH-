@@ -39,15 +39,15 @@ Dominio: `lab.local`. Comunicación agente↔manager por los puertos estándar d
 
 ## Documentación
 
-- [Arquitectura](docs/01-architecture.md) — cómo está conectado todo y por qué
-- [Instalación de Wazuh](docs/02-installation.md) — el stack completo, paso a paso
-- [Despliegue del agente](docs/03-agent-deployment.md) — cómo conecté el DC al SIEM
-- [Reglas de detección](docs/04-detection-rules.md) — qué generé y cómo lo cacé
-- [Troubleshooting real](docs/05-troubleshooting.md) — todo lo que se rompió y cómo lo arreglé
+- Arquitectura — cómo está conectado todo y por qué
+- Instalación de Wazuh — el stack completo, paso a paso
+- Despliegue del agente — cómo conecté el DC al SIEM
+- Reglas de detección — qué generé y cómo lo cacé
+- Troubleshooting real — todo lo que se rompió y cómo lo arreglé
 
 ## Evidencia
 
-Todas las capturas están en `screenshots/`, organizadas por fase. Índice completo con descripción de cada una en [`docs/evidencia.md`](docs/evidencia.md).
+Todas las capturas están en `screenshots/`, organizadas por fase. Índice completo con descripción de cada una en `docs/evidencia.md`.
 
 Los puntos más fuertes:
 - Diagrama de red completo de las dos laptops y sus adaptadores
